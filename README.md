@@ -9,4 +9,4 @@ I'm a Programmer who, codes for his Hobby. I also love Anime (A Vetran Weeb).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3RFECT01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-<a href="https://emoji.gg/emoji/9349-discord-logo"><img src="https://cdn3.emoji.gg/emojis/9349-discord-logo.png" width="32px" height="32px" alt="Discord_Logo">.</a>
+<img src="https://cdn3.emoji.gg/emojis/9349-discord-logo.png" width="32px" height="32px" alt="Discord_Logo"> .
