@@ -3,9 +3,9 @@
 ##About Me
 I'm a Programmer who, codes for his Hobby. I also love Anime (A Vetran Weeb).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3RFECT01)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a>
+  
 </a>
