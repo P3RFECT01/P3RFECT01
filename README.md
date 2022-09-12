@@ -3,7 +3,7 @@
 ##About Me
 I'm a Programmer who, codes for his Hobby. I also love Anime (A Vetran Weeb).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3RFECT01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3RFECT01)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a>
