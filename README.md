@@ -11,4 +11,4 @@ I'm a Programmer who, codes for his Hobby. I also love Anime (A Vetran Weeb).
 
 ## Contact
 <p align="center">
-<a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/.%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/P3RFECT#2064%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
