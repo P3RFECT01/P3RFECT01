@@ -2,6 +2,7 @@
 
 ## About Me
 I'm a Programmer who, codes for his Hobby. I also love Anime (A Vetran Weeb).
+<p><img src='https://media.giphy.com/media/R4JqZXw5Dm59u/giphy.gif'></p>
 
 
 ## Stats
