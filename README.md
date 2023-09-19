@@ -16,9 +16,9 @@
 I'm a Programmer who learns about computer codes for his Hobby and watches anime to escape from this reality
 
 <p align="center">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=P3RFECT01&show_icons=true&theme=radical" height="150"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=P3RFECT01&show_icons=true&theme=radical" height="120"/>
     </a>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3RFECT01&layout=compact&theme=radical" height="150"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3RFECT01&layout=compact&theme=radical" height="120"/>
     </a>
 </p>
 
