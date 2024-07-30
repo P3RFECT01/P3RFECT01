@@ -19,5 +19,5 @@
 
   <img src="https://media1.tenor.com/m/HwTVxkb7a-4AAAAd/lazy-anime.gif" align="center" width="310px">
   
-  <p align="center"><h3>Bored because I'm out of ideas, available for contribution and suggestions <br />DISCORD: p3rfect_</h3></p>
+  <p align="center">Bored because I'm out of ideas, available for contribution and suggestions <br />DISCORD: p3rfect_</p>
 </details>
